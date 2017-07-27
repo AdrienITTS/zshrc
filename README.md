@@ -2,7 +2,7 @@
 
 _At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)_
 
-**TODO**
+A simple .zshrc file to fully customize your zsh terminal with OhMyZsh and Powerlevel9k.
 
 ## Code Example
 
